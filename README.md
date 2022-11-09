@@ -70,10 +70,10 @@ java -version
 ```
 
 🔸 <strong>2.</strong> Para instalar o openJDK-11, digite no terminal:
-<em>A versão mais atual LTS é do Java 11, que terá seu suporte  estendido até Setembro de 2022. Este tipo de suporte iniciou no Java 8  que será mantido até 2023.</em>
+<em>A versão mais atual LTS é do Java 17, que terá seu suporte  estendido até abril de 2023. Este tipo de suporte iniciou no Java 8  que será mantido até 2023.</em>
 
 ```
-sudo apt-get install openjdk-11-jdk
+sudo apt-get install openjdk-17-jdk
 ```
 
 🔸 <strong>3.</strong> Confirme se realmente foi instalado com sucesso:
